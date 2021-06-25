@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arash, I've been a **software developer** for almost **10 years**.
-- I'm currently working with **Node.js**, **Serverless**, **PostgreSQL** and **AWS** and also doing some **Golang** dev for my fun and side projects.
+- I'm currently working with **React Native**, **React**, **Node.js**, **Serverless**, **PostgreSQL** and **AWS** and also doing some **Golang** dev for my fun and side projects.
 - I've started development with Microsoft **.Net** technologies, mostly **ASP.NET** web framework, and had a couple of projects in **PHP and Python** in my early years.
 - I've started my front-end work from the early days of **jQuery** to the new era which we are all doing **React, A̶n̶g̶u̶l̶a̶r̶, Vue.js ... !**, and I'm eager to learn new stuff.
 
