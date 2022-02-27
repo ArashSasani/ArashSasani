@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arash, I've been a **software developer** for almost **10 years**. I have experience working with different stacks of technology.
+- 👋 Hi, I’m Arash, I've been a **software developer** for more than **10 years**. I have experience working with different stacks of technology.
 - I'm currently working with **React Native**, **React**, **Node.js**, **Serverless**, **PostgreSQL** and **AWS** and also doing some **Golang** dev for my fun and side projects.
-- For the past recent years, I was really hoping to do offshore remote and also open source work, I've had the privilege to work with cool startups like [OpenScreenplay](https://www.openscreenplay.com/), [Mannr](https://www.getmannr.com/), and [PsychologyCompass](https://psychologycompass.com/). I'm also a member of [Spacestation Labs](https://github.com/spacestation/spacestation) a Toronto-based software consultancy.
+- For the past recent years, I was really hoping to do offshore remote and also open source work, I've had the privilege to work with cool startups like [OpenScreenplay](https://www.openscreenplay.com/), [Mannr](https://www.getmannr.com/), and [PsychologyCompass](https://psychologycompass.com/). I'm also a member of [Spacestation Labs](https://github.com/spacestation/spacestation) a Toronto-based software consultancy. Currently an employee of [Zartis](https://www.zartis.com/) as a senior developer, assigned to work for [CarTrawler](https://cartrawler.com/ct/en-gb/).
 
 - 👀 I’m interested in working with international and awesome dev teams.
 - 💞️ I’m looking to collaborate on remote and open source projects.
